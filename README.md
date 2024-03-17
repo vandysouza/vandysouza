@@ -1,7 +1,7 @@
-### Olá, eu sou Vandinete Souza 👋
+### Olá, eu sou Vandinete Moreno 👋
 
 - 🔭 Atualmente trabalho com desenvolvimento web
-- 🌱 Estou cursando faculdade de Sistemas de Informação  
+- 🌱 Formada pela Universidade Anhembi Morumbi em Sistemas de Informação  
 - 😄 Pronomes: ela/dela
 
 <div>
